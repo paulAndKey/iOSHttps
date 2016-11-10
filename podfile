@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target 'iOSTestHttps' do
+pod 'AFNetworking', '~> 3.1'
+end
